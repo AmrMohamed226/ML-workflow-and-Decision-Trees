@@ -2,4 +2,5 @@ In this project, we have gone through the work-flow of a Machine Learning projec
 - Exploring each of the datasets.
 - Training a baseline classifier.
 - Training, cross-validating, and hyper-parameter tuning plenty of models for each set to find the best-performing model for each of the two problems.
+
 Moreover, we have implemented Decision Tree classes using OOP for each classification and regression setting, investigating their viability to underfitting/overfitting and plotting to graph them for more interpretability.
